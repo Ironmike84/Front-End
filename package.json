@@ -1,0 +1,30 @@
+{
+  "name": "front-end",
+  "version": "1.0.0",
+  "description": "Front End",
+  "entry": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ironmike84/Front-End.git"
+  },
+  "author": "Mike Gross",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ironmike84/Front-End/issues"
+  },
+  "homepage": "https://github.com/Ironmike84/Front-End#readme",
+  "keywords": [],
+  "dependencies": {
+    "eslint": "^8.7.0",
+    "express": "^4.17.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "parcel": "^2.2.1"
+  },
+  "main": "index.js"
+}
